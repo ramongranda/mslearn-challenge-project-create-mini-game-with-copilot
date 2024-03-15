@@ -69,6 +69,6 @@ while option != "0":
 # End the game print the final score
 print("Game over")
 print("User score: ", user_score)
-print("System score: ", system_score)1
+print("System score: ", system_score)
 
 
